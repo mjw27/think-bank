@@ -1,1 +1,3 @@
 # think-bank
+
+LEARNING IS FUN AND SO IS CODING!
